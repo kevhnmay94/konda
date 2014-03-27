@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dadah dunia
+=======
+Hai dunia
+>>>>>>> teexte
